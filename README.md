@@ -1,6 +1,4 @@
 # Datatable-using-JQuery-ASP.NET-MVC
-
-# Waddhly
 ### It is a solution consists of 3 projects for implementing Datatable functionality using different methodologies using Database first approach
 ### Features: <br>
 &emsp;&emsp;o Simple Datatable
